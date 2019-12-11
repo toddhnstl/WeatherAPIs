@@ -1,0 +1,1466 @@
+08/23/2019 09:57:16 PM ==================================================
+08/23/2019 09:57:16 PM ==================================================
+08/23/2019 09:57:16 PM Program start at 2019-08-23 21:57:16.748595
+08/23/2019 09:57:16 PM ==================================================
+08/23/2019 09:57:16 PM 
+08/23/2019 09:57:16 PM 
+08/23/2019 09:57:17 PM Number of citys from call to citypy: 631
+08/23/2019 09:57:17 PM 
+08/23/2019 09:57:17 PM Count is 1 city is ambanja, mg
+08/23/2019 09:57:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ambanja,mg
+08/23/2019 09:57:19 PM Count is 2 city is diffa, ne
+08/23/2019 09:57:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=diffa,ne
+08/23/2019 09:57:20 PM Count is 3 city is saint george, us
+08/23/2019 09:57:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint george,us
+08/23/2019 09:57:21 PM Count is 4 city is ust-kamchatsk, ru
+08/23/2019 09:57:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ust-kamchatsk,ru
+08/23/2019 09:57:21 PM Skipping city ust-kamchatsk, ru.  City not found
+08/23/2019 09:57:21 PM 
+08/23/2019 09:57:22 PM Count is 5 city is kodiak, us
+08/23/2019 09:57:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kodiak,us
+08/23/2019 09:57:23 PM Count is 6 city is barrow, us
+08/23/2019 09:57:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=barrow,us
+08/23/2019 09:57:25 PM Count is 7 city is manoel urbano, br
+08/23/2019 09:57:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=manoel urbano,br
+08/23/2019 09:57:26 PM Count is 8 city is mataura, pf
+08/23/2019 09:57:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mataura,pf
+08/23/2019 09:57:26 PM Skipping city mataura, pf.  City not found
+08/23/2019 09:57:26 PM 
+08/23/2019 09:57:27 PM Count is 9 city is darhan, mn
+08/23/2019 09:57:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=darhan,mn
+08/23/2019 09:57:28 PM Count is 10 city is vaini, to
+08/23/2019 09:57:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vaini,to
+08/23/2019 09:57:29 PM Count is 11 city is rikitea, pf
+08/23/2019 09:57:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rikitea,pf
+08/23/2019 09:57:30 PM Count is 12 city is barentsburg, sj
+08/23/2019 09:57:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=barentsburg,sj
+08/23/2019 09:57:30 PM Skipping city barentsburg, sj.  City not found
+08/23/2019 09:57:30 PM 
+08/23/2019 09:57:31 PM Count is 13 city is tasiilaq, gl
+08/23/2019 09:57:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tasiilaq,gl
+08/23/2019 09:57:33 PM Count is 14 city is beringovskiy, ru
+08/23/2019 09:57:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=beringovskiy,ru
+08/23/2019 09:57:34 PM Count is 15 city is phuket, th
+08/23/2019 09:57:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=phuket,th
+08/23/2019 09:57:35 PM Count is 16 city is mahenge, tz
+08/23/2019 09:57:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mahenge,tz
+08/23/2019 09:57:36 PM Count is 17 city is vaitupu, wf
+08/23/2019 09:57:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vaitupu,wf
+08/23/2019 09:57:36 PM Skipping city vaitupu, wf.  City not found
+08/23/2019 09:57:36 PM 
+08/23/2019 09:57:37 PM Count is 18 city is satitoa, ws
+08/23/2019 09:57:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=satitoa,ws
+08/23/2019 09:57:38 PM Skipping city satitoa, ws.  City not found
+08/23/2019 09:57:38 PM 
+08/23/2019 09:57:39 PM Count is 19 city is sitka, us
+08/23/2019 09:57:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sitka,us
+08/23/2019 09:57:40 PM Count is 20 city is port elizabeth, za
+08/23/2019 09:57:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port elizabeth,za
+08/23/2019 09:57:41 PM Count is 21 city is busselton, au
+08/23/2019 09:57:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=busselton,au
+08/23/2019 09:57:42 PM Count is 22 city is zemio, cf
+08/23/2019 09:57:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zemio,cf
+08/23/2019 09:57:43 PM Count is 23 city is gueret, fr
+08/23/2019 09:57:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gueret,fr
+08/23/2019 09:57:45 PM Count is 24 city is san quintin, mx
+08/23/2019 09:57:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san quintin,mx
+08/23/2019 09:57:45 PM Skipping city san quintin, mx.  City not found
+08/23/2019 09:57:45 PM 
+08/23/2019 09:57:46 PM Count is 25 city is thompson, ca
+08/23/2019 09:57:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=thompson,ca
+08/23/2019 09:57:47 PM Count is 26 city is amderma, ru
+08/23/2019 09:57:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=amderma,ru
+08/23/2019 09:57:47 PM Skipping city amderma, ru.  City not found
+08/23/2019 09:57:47 PM 
+08/23/2019 09:57:48 PM Count is 27 city is kapaa, us
+08/23/2019 09:57:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kapaa,us
+08/23/2019 09:57:49 PM Count is 28 city is faanui, pf
+08/23/2019 09:57:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=faanui,pf
+08/23/2019 09:57:51 PM Count is 29 city is saint-ambroise, ca
+08/23/2019 09:57:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-ambroise,ca
+08/23/2019 09:57:52 PM Count is 30 city is hasaki, jp
+08/23/2019 09:57:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hasaki,jp
+08/23/2019 09:57:53 PM Count is 31 city is klaksvik, fo
+08/23/2019 09:57:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=klaksvik,fo
+08/23/2019 09:57:54 PM Count is 32 city is ushuaia, ar
+08/23/2019 09:57:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ushuaia,ar
+08/23/2019 09:57:55 PM Count is 33 city is punta arenas, cl
+08/23/2019 09:57:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=punta arenas,cl
+08/23/2019 09:57:57 PM Count is 34 city is salto, uy
+08/23/2019 09:57:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=salto,uy
+08/23/2019 09:57:58 PM Count is 35 city is halalo, wf
+08/23/2019 09:57:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=halalo,wf
+08/23/2019 09:57:58 PM Skipping city halalo, wf.  City not found
+08/23/2019 09:57:58 PM 
+08/23/2019 09:57:59 PM Count is 36 city is shiliguri, in
+08/23/2019 09:57:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shiliguri,in
+08/23/2019 09:58:00 PM Count is 37 city is vostok, ru
+08/23/2019 09:58:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vostok,ru
+08/23/2019 09:58:01 PM Count is 38 city is provideniya, ru
+08/23/2019 09:58:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=provideniya,ru
+08/23/2019 09:58:03 PM Count is 39 city is namibe, ao
+08/23/2019 09:58:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=namibe,ao
+08/23/2019 09:58:04 PM Count is 40 city is mount isa, au
+08/23/2019 09:58:04 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mount isa,au
+08/23/2019 09:58:05 PM Count is 41 city is butaritari, ki
+08/23/2019 09:58:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=butaritari,ki
+08/23/2019 09:58:06 PM Count is 42 city is ribeira grande, pt
+08/23/2019 09:58:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ribeira grande,pt
+08/23/2019 09:58:08 PM Count is 43 city is port alfred, za
+08/23/2019 09:58:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port alfred,za
+08/23/2019 09:58:09 PM Count is 44 city is avarua, ck
+08/23/2019 09:58:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=avarua,ck
+08/23/2019 09:58:10 PM Count is 45 city is bluff, nz
+08/23/2019 09:58:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bluff,nz
+08/23/2019 09:58:11 PM Count is 46 city is bayan, kw
+08/23/2019 09:58:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bayan,kw
+08/23/2019 09:58:12 PM Count is 47 city is saint-philippe, re
+08/23/2019 09:58:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-philippe,re
+08/23/2019 09:58:14 PM Count is 48 city is port hawkesbury, ca
+08/23/2019 09:58:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port hawkesbury,ca
+08/23/2019 09:58:15 PM Count is 49 city is nikolskoye, ru
+08/23/2019 09:58:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nikolskoye,ru
+08/23/2019 09:58:16 PM Count is 50 city is deputatskiy, ru
+08/23/2019 09:58:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=deputatskiy,ru
+08/23/2019 09:58:17 PM Count is 51 city is hithadhoo, mv
+08/23/2019 09:58:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hithadhoo,mv
+08/23/2019 09:58:18 PM Count is 52 city is ghanzi, bw
+08/23/2019 09:58:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ghanzi,bw
+08/23/2019 09:58:20 PM Count is 53 city is qaanaaq, gl
+08/23/2019 09:58:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=qaanaaq,gl
+08/23/2019 09:58:21 PM Count is 54 city is bredasdorp, za
+08/23/2019 09:58:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bredasdorp,za
+08/23/2019 09:58:22 PM Count is 55 city is asau, tv
+08/23/2019 09:58:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=asau,tv
+08/23/2019 09:58:22 PM Skipping city asau, tv.  City not found
+08/23/2019 09:58:22 PM 
+08/23/2019 09:58:23 PM Count is 56 city is sambava, mg
+08/23/2019 09:58:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sambava,mg
+08/23/2019 09:58:24 PM Count is 57 city is colares, pt
+08/23/2019 09:58:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=colares,pt
+08/23/2019 09:58:26 PM Count is 58 city is cuncolim, in
+08/23/2019 09:58:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cuncolim,in
+08/23/2019 09:58:27 PM Count is 59 city is mobaye, cf
+08/23/2019 09:58:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mobaye,cf
+08/23/2019 09:58:28 PM Count is 60 city is lufilufi, ws
+08/23/2019 09:58:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lufilufi,ws
+08/23/2019 09:58:29 PM Count is 61 city is utiroa, ki
+08/23/2019 09:58:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=utiroa,ki
+08/23/2019 09:58:30 PM Skipping city utiroa, ki.  City not found
+08/23/2019 09:58:30 PM 
+08/23/2019 09:58:31 PM Count is 62 city is puerto ayora, ec
+08/23/2019 09:58:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto ayora,ec
+08/23/2019 09:58:32 PM Count is 63 city is albany, au
+08/23/2019 09:58:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=albany,au
+08/23/2019 09:58:33 PM Count is 64 city is jamestown, sh
+08/23/2019 09:58:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=jamestown,sh
+08/23/2019 09:58:34 PM Count is 65 city is new norfolk, au
+08/23/2019 09:58:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=new norfolk,au
+08/23/2019 09:58:35 PM Count is 66 city is kulim, my
+08/23/2019 09:58:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kulim,my
+08/23/2019 09:58:37 PM Count is 67 city is pitea, se
+08/23/2019 09:58:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pitea,se
+08/23/2019 09:58:38 PM Count is 68 city is tiarei, pf
+08/23/2019 09:58:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tiarei,pf
+08/23/2019 09:58:39 PM Count is 69 city is yellowknife, ca
+08/23/2019 09:58:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yellowknife,ca
+08/23/2019 09:58:40 PM Count is 70 city is araouane, ml
+08/23/2019 09:58:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=araouane,ml
+08/23/2019 09:58:42 PM Count is 71 city is matay, eg
+08/23/2019 09:58:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=matay,eg
+08/23/2019 09:58:43 PM Count is 72 city is arraial do cabo, br
+08/23/2019 09:58:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=arraial do cabo,br
+08/23/2019 09:58:44 PM Count is 73 city is vila velha, br
+08/23/2019 09:58:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vila velha,br
+08/23/2019 09:58:45 PM Count is 74 city is hobart, au
+08/23/2019 09:58:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hobart,au
+08/23/2019 09:58:46 PM Count is 75 city is tumannyy, ru
+08/23/2019 09:58:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tumannyy,ru
+08/23/2019 09:58:46 PM Skipping city tumannyy, ru.  City not found
+08/23/2019 09:58:46 PM 
+08/23/2019 09:58:47 PM Count is 76 city is ranong, th
+08/23/2019 09:58:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ranong,th
+08/23/2019 09:58:49 PM Count is 77 city is dakar, sn
+08/23/2019 09:58:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=dakar,sn
+08/23/2019 09:58:50 PM Count is 78 city is awbari, ly
+08/23/2019 09:58:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=awbari,ly
+08/23/2019 09:58:51 PM Count is 79 city is ambo, pe
+08/23/2019 09:58:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ambo,pe
+08/23/2019 09:58:52 PM Count is 80 city is mahebourg, mu
+08/23/2019 09:58:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mahebourg,mu
+08/23/2019 09:58:54 PM Count is 81 city is moose factory, ca
+08/23/2019 09:58:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=moose factory,ca
+08/23/2019 09:58:55 PM Count is 82 city is lorengau, pg
+08/23/2019 09:58:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lorengau,pg
+08/23/2019 09:58:56 PM Count is 83 city is ilhabela, br
+08/23/2019 09:58:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ilhabela,br
+08/23/2019 09:58:57 PM Count is 84 city is dikson, ru
+08/23/2019 09:58:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=dikson,ru
+08/23/2019 09:58:58 PM Count is 85 city is saskylakh, ru
+08/23/2019 09:58:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saskylakh,ru
+08/23/2019 09:58:59 PM Count is 86 city is ilulissat, gl
+08/23/2019 09:58:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ilulissat,gl
+08/23/2019 09:59:01 PM Count is 87 city is santa rosa, ar
+08/23/2019 09:59:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=santa rosa,ar
+08/23/2019 09:59:02 PM Count is 88 city is geraldton, au
+08/23/2019 09:59:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=geraldton,au
+08/23/2019 09:59:03 PM Count is 89 city is zyryanka, ru
+08/23/2019 09:59:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zyryanka,ru
+08/23/2019 09:59:04 PM Count is 90 city is san cristobal, ec
+08/23/2019 09:59:04 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san cristobal,ec
+08/23/2019 09:59:05 PM Count is 91 city is airai, pw
+08/23/2019 09:59:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=airai,pw
+08/23/2019 09:59:06 PM Skipping city airai, pw.  City not found
+08/23/2019 09:59:06 PM 
+08/23/2019 09:59:07 PM Count is 92 city is deniliquin, au
+08/23/2019 09:59:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=deniliquin,au
+08/23/2019 09:59:08 PM Count is 93 city is cape coral, us
+08/23/2019 09:59:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cape coral,us
+08/23/2019 09:59:09 PM Count is 94 city is ponta delgada, pt
+08/23/2019 09:59:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ponta delgada,pt
+08/23/2019 09:59:10 PM Count is 95 city is tiznit, ma
+08/23/2019 09:59:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tiznit,ma
+08/23/2019 09:59:11 PM Count is 96 city is mirnyy, ru
+08/23/2019 09:59:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mirnyy,ru
+08/23/2019 09:59:13 PM Count is 97 city is saint-georges, gf
+08/23/2019 09:59:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-georges,gf
+08/23/2019 09:59:13 PM Skipping city saint-georges, gf.  City not found
+08/23/2019 09:59:13 PM 
+08/23/2019 09:59:14 PM Count is 98 city is roma, au
+08/23/2019 09:59:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=roma,au
+08/23/2019 09:59:15 PM Count is 99 city is nanortalik, gl
+08/23/2019 09:59:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nanortalik,gl
+08/23/2019 09:59:16 PM Count is 100 city is pevek, ru
+08/23/2019 09:59:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pevek,ru
+08/23/2019 09:59:17 PM Count is 101 city is sampit, id
+08/23/2019 09:59:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sampit,id
+08/23/2019 09:59:19 PM Count is 102 city is port hedland, au
+08/23/2019 09:59:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port hedland,au
+08/23/2019 09:59:20 PM Count is 103 city is norman wells, ca
+08/23/2019 09:59:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=norman wells,ca
+08/23/2019 09:59:21 PM Count is 104 city is mondovi, it
+08/23/2019 09:59:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mondovi,it
+08/23/2019 09:59:22 PM Count is 105 city is fort saint james, ca
+08/23/2019 09:59:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=fort saint james,ca
+08/23/2019 09:59:24 PM Count is 106 city is bathsheba, bb
+08/23/2019 09:59:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bathsheba,bb
+08/23/2019 09:59:25 PM Count is 107 city is coihaique, cl
+08/23/2019 09:59:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=coihaique,cl
+08/23/2019 09:59:26 PM Count is 108 city is dudinka, ru
+08/23/2019 09:59:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=dudinka,ru
+08/23/2019 09:59:27 PM Count is 109 city is verkhnevilyuysk, ru
+08/23/2019 09:59:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=verkhnevilyuysk,ru
+08/23/2019 09:59:28 PM Count is 110 city is vieux-habitants, gp
+08/23/2019 09:59:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vieux-habitants,gp
+08/23/2019 09:59:30 PM Count is 111 city is taolanaro, mg
+08/23/2019 09:59:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=taolanaro,mg
+08/23/2019 09:59:30 PM Skipping city taolanaro, mg.  City not found
+08/23/2019 09:59:30 PM 
+08/23/2019 09:59:31 PM Count is 112 city is kidal, ml
+08/23/2019 09:59:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kidal,ml
+08/23/2019 09:59:32 PM Count is 113 city is grenada, us
+08/23/2019 09:59:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=grenada,us
+08/23/2019 09:59:33 PM Count is 114 city is castro, cl
+08/23/2019 09:59:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=castro,cl
+08/23/2019 09:59:34 PM Count is 115 city is kamenskoye, ru
+08/23/2019 09:59:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kamenskoye,ru
+08/23/2019 09:59:35 PM Skipping city kamenskoye, ru.  City not found
+08/23/2019 09:59:35 PM 
+08/23/2019 09:59:36 PM Count is 116 city is egvekinot, ru
+08/23/2019 09:59:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=egvekinot,ru
+08/23/2019 09:59:37 PM Count is 117 city is chivilcoy, ar
+08/23/2019 09:59:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chivilcoy,ar
+08/23/2019 09:59:38 PM Count is 118 city is belushya guba, ru
+08/23/2019 09:59:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=belushya guba,ru
+08/23/2019 09:59:38 PM Skipping city belushya guba, ru.  City not found
+08/23/2019 09:59:38 PM 
+08/23/2019 09:59:39 PM Count is 119 city is vila franca do campo, pt
+08/23/2019 09:59:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vila franca do campo,pt
+08/23/2019 09:59:40 PM Count is 120 city is djibo, bf
+08/23/2019 09:59:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=djibo,bf
+08/23/2019 09:59:42 PM Count is 121 city is severnyy, ru
+08/23/2019 09:59:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=severnyy,ru
+08/23/2019 09:59:42 PM Skipping city severnyy, ru.  City not found
+08/23/2019 09:59:42 PM 
+08/23/2019 09:59:43 PM Count is 122 city is palana, ru
+08/23/2019 09:59:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=palana,ru
+08/23/2019 09:59:44 PM Count is 123 city is paradwip, in
+08/23/2019 09:59:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=paradwip,in
+08/23/2019 09:59:44 PM Skipping city paradwip, in.  City not found
+08/23/2019 09:59:44 PM 
+08/23/2019 09:59:45 PM Count is 124 city is cayenne, gf
+08/23/2019 09:59:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cayenne,gf
+08/23/2019 09:59:46 PM Count is 125 city is sakaiminato, jp
+08/23/2019 09:59:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sakaiminato,jp
+08/23/2019 09:59:47 PM Count is 126 city is marcona, pe
+08/23/2019 09:59:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=marcona,pe
+08/23/2019 09:59:47 PM Skipping city marcona, pe.  City not found
+08/23/2019 09:59:47 PM 
+08/23/2019 09:59:48 PM Count is 127 city is atuona, pf
+08/23/2019 09:59:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=atuona,pf
+08/23/2019 09:59:50 PM Count is 128 city is beitbridge, zw
+08/23/2019 09:59:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=beitbridge,zw
+08/23/2019 09:59:51 PM Count is 129 city is bur gabo, so
+08/23/2019 09:59:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bur gabo,so
+08/23/2019 09:59:51 PM Skipping city bur gabo, so.  City not found
+08/23/2019 09:59:51 PM 
+08/23/2019 09:59:52 PM Count is 130 city is abu samrah, qa
+08/23/2019 09:59:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=abu samrah,qa
+08/23/2019 09:59:52 PM Skipping city abu samrah, qa.  City not found
+08/23/2019 09:59:52 PM 
+08/23/2019 09:59:53 PM Count is 131 city is cap malheureux, mu
+08/23/2019 09:59:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cap malheureux,mu
+08/23/2019 09:59:54 PM Count is 132 city is linares, cl
+08/23/2019 09:59:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=linares,cl
+08/23/2019 09:59:56 PM Count is 133 city is husavik, is
+08/23/2019 09:59:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=husavik,is
+08/23/2019 09:59:57 PM Count is 134 city is illoqqortoormiut, gl
+08/23/2019 09:59:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=illoqqortoormiut,gl
+08/23/2019 09:59:57 PM Skipping city illoqqortoormiut, gl.  City not found
+08/23/2019 09:59:57 PM 
+08/23/2019 09:59:58 PM Count is 135 city is bethel, us
+08/23/2019 09:59:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bethel,us
+08/23/2019 09:59:59 PM Count is 136 city is sibolga, id
+08/23/2019 09:59:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sibolga,id
+08/23/2019 10:00:00 PM Count is 137 city is ibra, om
+08/23/2019 10:00:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ibra,om
+08/23/2019 10:00:02 PM Count is 138 city is cape town, za
+08/23/2019 10:00:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cape town,za
+08/23/2019 10:00:07 PM Count is 139 city is gizo, sb
+08/23/2019 10:00:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gizo,sb
+08/23/2019 10:00:09 PM Count is 140 city is gurgentepe, tr
+08/23/2019 10:00:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gurgentepe,tr
+08/23/2019 10:00:10 PM Count is 141 city is urtaaul, uz
+08/23/2019 10:00:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=urtaaul,uz
+08/23/2019 10:00:10 PM Skipping city urtaaul, uz.  City not found
+08/23/2019 10:00:10 PM 
+08/23/2019 10:00:11 PM Count is 142 city is longyearbyen, sj
+08/23/2019 10:00:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=longyearbyen,sj
+08/23/2019 10:00:12 PM Count is 143 city is kebemer, sn
+08/23/2019 10:00:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kebemer,sn
+08/23/2019 10:00:12 PM Skipping city kebemer, sn.  City not found
+08/23/2019 10:00:12 PM 
+08/23/2019 10:00:13 PM Count is 144 city is fortuna, us
+08/23/2019 10:00:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=fortuna,us
+08/23/2019 10:00:14 PM Count is 145 city is upernavik, gl
+08/23/2019 10:00:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=upernavik,gl
+08/23/2019 10:00:16 PM Count is 146 city is ola, ru
+08/23/2019 10:00:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ola,ru
+08/23/2019 10:00:20 PM Count is 147 city is copperas cove, us
+08/23/2019 10:00:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=copperas cove,us
+08/23/2019 10:00:22 PM Count is 148 city is rio gallegos, ar
+08/23/2019 10:00:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rio gallegos,ar
+08/23/2019 10:00:24 PM Count is 149 city is talnakh, ru
+08/23/2019 10:00:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=talnakh,ru
+08/23/2019 10:00:25 PM Count is 150 city is carnarvon, za
+08/23/2019 10:00:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=carnarvon,za
+08/23/2019 10:00:26 PM Count is 151 city is panama city, us
+08/23/2019 10:00:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=panama city,us
+08/23/2019 10:00:27 PM Count is 152 city is doha, kw
+08/23/2019 10:00:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=doha,kw
+08/23/2019 10:00:27 PM Skipping city doha, kw.  City not found
+08/23/2019 10:00:27 PM 
+08/23/2019 10:00:28 PM Count is 153 city is hilo, us
+08/23/2019 10:00:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hilo,us
+08/23/2019 10:00:30 PM Count is 154 city is tigzirt, dz
+08/23/2019 10:00:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tigzirt,dz
+08/23/2019 10:00:31 PM Count is 155 city is victoria, sc
+08/23/2019 10:00:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=victoria,sc
+08/23/2019 10:00:32 PM Count is 156 city is hirara, jp
+08/23/2019 10:00:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hirara,jp
+08/23/2019 10:00:33 PM Count is 157 city is ancud, cl
+08/23/2019 10:00:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ancud,cl
+08/23/2019 10:00:35 PM Count is 158 city is singkawang, id
+08/23/2019 10:00:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=singkawang,id
+08/23/2019 10:00:35 PM Skipping city singkawang, id.  City not found
+08/23/2019 10:00:35 PM 
+08/23/2019 10:00:36 PM Count is 159 city is mapimi, mx
+08/23/2019 10:00:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mapimi,mx
+08/23/2019 10:00:37 PM Count is 160 city is urumqi, cn
+08/23/2019 10:00:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=urumqi,cn
+08/23/2019 10:00:37 PM Skipping city urumqi, cn.  City not found
+08/23/2019 10:00:37 PM 
+08/23/2019 10:00:38 PM Count is 161 city is torbay, ca
+08/23/2019 10:00:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=torbay,ca
+08/23/2019 10:00:39 PM Count is 162 city is tuktoyaktuk, ca
+08/23/2019 10:00:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tuktoyaktuk,ca
+08/23/2019 10:00:40 PM Count is 163 city is tighina, md
+08/23/2019 10:00:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tighina,md
+08/23/2019 10:00:40 PM Skipping city tighina, md.  City not found
+08/23/2019 10:00:40 PM 
+08/23/2019 10:00:41 PM Count is 164 city is lebu, cl
+08/23/2019 10:00:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lebu,cl
+08/23/2019 10:00:43 PM Count is 165 city is arman, ru
+08/23/2019 10:00:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=arman,ru
+08/23/2019 10:00:44 PM Count is 166 city is beloha, mg
+08/23/2019 10:00:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=beloha,mg
+08/23/2019 10:00:45 PM Count is 167 city is sao gotardo, br
+08/23/2019 10:00:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sao gotardo,br
+08/23/2019 10:00:46 PM Count is 168 city is illela, ne
+08/23/2019 10:00:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=illela,ne
+08/23/2019 10:00:46 PM Skipping city illela, ne.  City not found
+08/23/2019 10:00:46 PM 
+08/23/2019 10:00:47 PM Count is 169 city is port augusta, au
+08/23/2019 10:00:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port augusta,au
+08/23/2019 10:00:49 PM Count is 170 city is georgetown, sh
+08/23/2019 10:00:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=georgetown,sh
+08/23/2019 10:00:50 PM Count is 171 city is bangkalan, id
+08/23/2019 10:00:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bangkalan,id
+08/23/2019 10:00:51 PM Count is 172 city is khatanga, ru
+08/23/2019 10:00:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=khatanga,ru
+08/23/2019 10:00:52 PM Count is 173 city is sergeyevka, kz
+08/23/2019 10:00:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sergeyevka,kz
+08/23/2019 10:00:53 PM Count is 174 city is kruisfontein, za
+08/23/2019 10:00:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kruisfontein,za
+08/23/2019 10:00:55 PM Count is 175 city is hami, cn
+08/23/2019 10:00:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hami,cn
+08/23/2019 10:00:56 PM Count is 176 city is lavrentiya, ru
+08/23/2019 10:00:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lavrentiya,ru
+08/23/2019 10:00:57 PM Count is 177 city is salalah, om
+08/23/2019 10:00:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=salalah,om
+08/23/2019 10:00:58 PM Count is 178 city is clyde river, ca
+08/23/2019 10:00:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=clyde river,ca
+08/23/2019 10:01:00 PM Count is 179 city is olafsvik, is
+08/23/2019 10:01:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=olafsvik,is
+08/23/2019 10:01:00 PM Skipping city olafsvik, is.  City not found
+08/23/2019 10:01:00 PM 
+08/23/2019 10:01:01 PM Count is 180 city is ixtapa, mx
+08/23/2019 10:01:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ixtapa,mx
+08/23/2019 10:01:02 PM Count is 181 city is borogontsy, ru
+08/23/2019 10:01:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=borogontsy,ru
+08/23/2019 10:01:03 PM Count is 182 city is yatou, cn
+08/23/2019 10:01:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yatou,cn
+08/23/2019 10:01:04 PM Count is 183 city is samarai, pg
+08/23/2019 10:01:04 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=samarai,pg
+08/23/2019 10:01:06 PM Count is 184 city is camacha, pt
+08/23/2019 10:01:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=camacha,pt
+08/23/2019 10:01:07 PM Count is 185 city is roald, no
+08/23/2019 10:01:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=roald,no
+08/23/2019 10:01:08 PM Count is 186 city is touros, br
+08/23/2019 10:01:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=touros,br
+08/23/2019 10:01:09 PM Count is 187 city is kavaratti, in
+08/23/2019 10:01:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kavaratti,in
+08/23/2019 10:01:10 PM Count is 188 city is tidore, id
+08/23/2019 10:01:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tidore,id
+08/23/2019 10:01:11 PM Skipping city tidore, id.  City not found
+08/23/2019 10:01:11 PM 
+08/23/2019 10:01:12 PM Count is 189 city is henties bay, na
+08/23/2019 10:01:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=henties bay,na
+08/23/2019 10:01:13 PM Count is 190 city is cabo san lucas, mx
+08/23/2019 10:01:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cabo san lucas,mx
+08/23/2019 10:01:14 PM Count is 191 city is isangel, vu
+08/23/2019 10:01:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=isangel,vu
+08/23/2019 10:01:15 PM Count is 192 city is chapeco, br
+08/23/2019 10:01:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chapeco,br
+08/23/2019 10:01:16 PM Count is 193 city is vulcan, ca
+08/23/2019 10:01:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vulcan,ca
+08/23/2019 10:01:17 PM Count is 194 city is paka, my
+08/23/2019 10:01:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=paka,my
+08/23/2019 10:01:19 PM Count is 195 city is petropavlovsk-kamchatskiy, ru
+08/23/2019 10:01:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=petropavlovsk-kamchatskiy,ru
+08/23/2019 10:01:20 PM Count is 196 city is hermanus, za
+08/23/2019 10:01:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hermanus,za
+08/23/2019 10:01:21 PM Count is 197 city is belaya gora, ru
+08/23/2019 10:01:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=belaya gora,ru
+08/23/2019 10:01:23 PM Count is 198 city is yelan-koleno, ru
+08/23/2019 10:01:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yelan-koleno,ru
+08/23/2019 10:01:24 PM Count is 199 city is ambodifototra, mg
+08/23/2019 10:01:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ambodifototra,mg
+08/23/2019 10:01:24 PM Skipping city ambodifototra, mg.  City not found
+08/23/2019 10:01:24 PM 
+08/23/2019 10:01:25 PM Count is 200 city is tateyama, jp
+08/23/2019 10:01:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tateyama,jp
+08/23/2019 10:01:26 PM Count is 201 city is rungata, ki
+08/23/2019 10:01:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rungata,ki
+08/23/2019 10:01:26 PM Skipping city rungata, ki.  City not found
+08/23/2019 10:01:26 PM 
+08/23/2019 10:01:27 PM Count is 202 city is nelspruit, za
+08/23/2019 10:01:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nelspruit,za
+08/23/2019 10:01:28 PM Count is 203 city is palabuhanratu, id
+08/23/2019 10:01:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=palabuhanratu,id
+08/23/2019 10:01:29 PM Skipping city palabuhanratu, id.  City not found
+08/23/2019 10:01:29 PM 
+08/23/2019 10:01:30 PM Count is 204 city is kavieng, pg
+08/23/2019 10:01:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kavieng,pg
+08/23/2019 10:01:31 PM Count is 205 city is hailar, cn
+08/23/2019 10:01:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hailar,cn
+08/23/2019 10:01:32 PM Count is 206 city is padang, id
+08/23/2019 10:01:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=padang,id
+08/23/2019 10:01:33 PM Count is 207 city is bela, pk
+08/23/2019 10:01:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bela,pk
+08/23/2019 10:01:34 PM Count is 208 city is tilichiki, ru
+08/23/2019 10:01:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tilichiki,ru
+08/23/2019 10:01:36 PM Count is 209 city is ryotsu, jp
+08/23/2019 10:01:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ryotsu,jp
+08/23/2019 10:01:37 PM Count is 210 city is seydi, tm
+08/23/2019 10:01:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=seydi,tm
+08/23/2019 10:01:38 PM Count is 211 city is ahipara, nz
+08/23/2019 10:01:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ahipara,nz
+08/23/2019 10:01:39 PM Count is 212 city is buraydah, sa
+08/23/2019 10:01:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=buraydah,sa
+08/23/2019 10:01:41 PM Count is 213 city is sinnamary, gf
+08/23/2019 10:01:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sinnamary,gf
+08/23/2019 10:01:42 PM Count is 214 city is mumbwa, zm
+08/23/2019 10:01:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mumbwa,zm
+08/23/2019 10:01:43 PM Count is 215 city is alofi, nu
+08/23/2019 10:01:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=alofi,nu
+08/23/2019 10:01:44 PM Count is 216 city is tiksi, ru
+08/23/2019 10:01:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tiksi,ru
+08/23/2019 10:01:45 PM Count is 217 city is leningradskiy, ru
+08/23/2019 10:01:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=leningradskiy,ru
+08/23/2019 10:01:47 PM Count is 218 city is oranjemund, na
+08/23/2019 10:01:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=oranjemund,na
+08/23/2019 10:01:48 PM Count is 219 city is karratha, au
+08/23/2019 10:01:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=karratha,au
+08/23/2019 10:01:49 PM Count is 220 city is klyuchi, ru
+08/23/2019 10:01:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=klyuchi,ru
+08/23/2019 10:01:50 PM Count is 221 city is alto araguaia, br
+08/23/2019 10:01:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=alto araguaia,br
+08/23/2019 10:01:51 PM Count is 222 city is spasskoye, ua
+08/23/2019 10:01:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=spasskoye,ua
+08/23/2019 10:01:53 PM Count is 223 city is thanh hoa, vn
+08/23/2019 10:01:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=thanh hoa,vn
+08/23/2019 10:01:54 PM Count is 224 city is necochea, ar
+08/23/2019 10:01:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=necochea,ar
+08/23/2019 10:01:55 PM Count is 225 city is mbaiki, cf
+08/23/2019 10:01:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mbaiki,cf
+08/23/2019 10:01:56 PM Count is 226 city is plettenberg bay, za
+08/23/2019 10:01:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=plettenberg bay,za
+08/23/2019 10:01:58 PM Count is 227 city is san andres, co
+08/23/2019 10:01:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san andres,co
+08/23/2019 10:01:59 PM Count is 228 city is saint anthony, ca
+08/23/2019 10:01:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint anthony,ca
+08/23/2019 10:01:59 PM Skipping city saint anthony, ca.  City not found
+08/23/2019 10:01:59 PM 
+08/23/2019 10:02:00 PM Count is 229 city is chuy, uy
+08/23/2019 10:02:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chuy,uy
+08/23/2019 10:02:01 PM Count is 230 city is huilong, cn
+08/23/2019 10:02:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=huilong,cn
+08/23/2019 10:02:02 PM Count is 231 city is kahului, us
+08/23/2019 10:02:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kahului,us
+08/23/2019 10:02:03 PM Count is 232 city is iqaluit, ca
+08/23/2019 10:02:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=iqaluit,ca
+08/23/2019 10:02:05 PM Count is 233 city is tura, ru
+08/23/2019 10:02:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tura,ru
+08/23/2019 10:02:06 PM Count is 234 city is raudeberg, no
+08/23/2019 10:02:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=raudeberg,no
+08/23/2019 10:02:07 PM Count is 235 city is yulara, au
+08/23/2019 10:02:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yulara,au
+08/23/2019 10:02:08 PM Count is 236 city is sisimiut, gl
+08/23/2019 10:02:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sisimiut,gl
+08/23/2019 10:02:10 PM Count is 237 city is taltal, cl
+08/23/2019 10:02:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=taltal,cl
+08/23/2019 10:02:11 PM Count is 238 city is hamilton, bm
+08/23/2019 10:02:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hamilton,bm
+08/23/2019 10:02:12 PM Count is 239 city is kununurra, au
+08/23/2019 10:02:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kununurra,au
+08/23/2019 10:02:13 PM Count is 240 city is mahibadhoo, mv
+08/23/2019 10:02:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mahibadhoo,mv
+08/23/2019 10:02:14 PM Count is 241 city is rincon, an
+08/23/2019 10:02:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rincon,an
+08/23/2019 10:02:15 PM Skipping city rincon, an.  City not found
+08/23/2019 10:02:15 PM 
+08/23/2019 10:02:16 PM Count is 242 city is lagoa, pt
+08/23/2019 10:02:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lagoa,pt
+08/23/2019 10:02:17 PM Count is 243 city is te anau, nz
+08/23/2019 10:02:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=te anau,nz
+08/23/2019 10:02:18 PM Count is 244 city is nikolsk, ru
+08/23/2019 10:02:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nikolsk,ru
+08/23/2019 10:02:19 PM Count is 245 city is chokurdakh, ru
+08/23/2019 10:02:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chokurdakh,ru
+08/23/2019 10:02:20 PM Count is 246 city is broome, au
+08/23/2019 10:02:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=broome,au
+08/23/2019 10:02:22 PM Count is 247 city is maceio, br
+08/23/2019 10:02:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=maceio,br
+08/23/2019 10:02:23 PM Count is 248 city is zlatoustovsk, ru
+08/23/2019 10:02:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zlatoustovsk,ru
+08/23/2019 10:02:23 PM Skipping city zlatoustovsk, ru.  City not found
+08/23/2019 10:02:23 PM 
+08/23/2019 10:02:24 PM Count is 249 city is kijang, id
+08/23/2019 10:02:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kijang,id
+08/23/2019 10:02:25 PM Count is 250 city is kailua, us
+08/23/2019 10:02:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kailua,us
+08/23/2019 10:02:26 PM Count is 251 city is dongsheng, cn
+08/23/2019 10:02:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=dongsheng,cn
+08/23/2019 10:02:28 PM Count is 252 city is yerbogachen, ru
+08/23/2019 10:02:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yerbogachen,ru
+08/23/2019 10:02:29 PM Count is 253 city is san isidro, ph
+08/23/2019 10:02:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san isidro,ph
+08/23/2019 10:02:30 PM Count is 254 city is massakory, td
+08/23/2019 10:02:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=massakory,td
+08/23/2019 10:02:31 PM Count is 255 city is jasrana, in
+08/23/2019 10:02:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=jasrana,in
+08/23/2019 10:02:32 PM Count is 256 city is srednekolymsk, ru
+08/23/2019 10:02:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=srednekolymsk,ru
+08/23/2019 10:02:34 PM Count is 257 city is kolpashevo, ru
+08/23/2019 10:02:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kolpashevo,ru
+08/23/2019 10:02:35 PM Count is 258 city is manggar, id
+08/23/2019 10:02:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=manggar,id
+08/23/2019 10:02:36 PM Count is 259 city is attawapiskat, ca
+08/23/2019 10:02:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=attawapiskat,ca
+08/23/2019 10:02:36 PM Skipping city attawapiskat, ca.  City not found
+08/23/2019 10:02:36 PM 
+08/23/2019 10:02:37 PM Count is 260 city is porto walter, br
+08/23/2019 10:02:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=porto walter,br
+08/23/2019 10:02:38 PM Count is 261 city is mkushi, zm
+08/23/2019 10:02:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mkushi,zm
+08/23/2019 10:02:40 PM Count is 262 city is sola, vu
+08/23/2019 10:02:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sola,vu
+08/23/2019 10:02:41 PM Count is 263 city is voh, nc
+08/23/2019 10:02:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=voh,nc
+08/23/2019 10:02:42 PM Count is 264 city is souillac, mu
+08/23/2019 10:02:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=souillac,mu
+08/23/2019 10:02:43 PM Count is 265 city is sorland, no
+08/23/2019 10:02:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sorland,no
+08/23/2019 10:02:44 PM Count is 266 city is bilokurakyne, ua
+08/23/2019 10:02:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bilokurakyne,ua
+08/23/2019 10:02:46 PM Count is 267 city is bayangol, ru
+08/23/2019 10:02:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bayangol,ru
+08/23/2019 10:02:47 PM Count is 268 city is kranjska gora, si
+08/23/2019 10:02:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kranjska gora,si
+08/23/2019 10:02:48 PM Count is 269 city is praia, cv
+08/23/2019 10:02:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=praia,cv
+08/23/2019 10:02:49 PM Count is 270 city is hovd, mn
+08/23/2019 10:02:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hovd,mn
+08/23/2019 10:02:50 PM Count is 271 city is codrington, ag
+08/23/2019 10:02:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=codrington,ag
+08/23/2019 10:02:51 PM Skipping city codrington, ag.  City not found
+08/23/2019 10:02:51 PM 
+08/23/2019 10:02:52 PM Count is 272 city is mar del plata, ar
+08/23/2019 10:02:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mar del plata,ar
+08/23/2019 10:02:53 PM Count is 273 city is narsaq, gl
+08/23/2019 10:02:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=narsaq,gl
+08/23/2019 10:02:54 PM Count is 274 city is sao filipe, cv
+08/23/2019 10:02:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sao filipe,cv
+08/23/2019 10:02:55 PM Count is 275 city is litovko, ru
+08/23/2019 10:02:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=litovko,ru
+08/23/2019 10:02:56 PM Count is 276 city is okha, ru
+08/23/2019 10:02:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=okha,ru
+08/23/2019 10:02:58 PM Count is 277 city is kargat, ru
+08/23/2019 10:02:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kargat,ru
+08/23/2019 10:02:59 PM Count is 278 city is agua dulce, mx
+08/23/2019 10:02:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=agua dulce,mx
+08/23/2019 10:03:00 PM Count is 279 city is avera, pf
+08/23/2019 10:03:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=avera,pf
+08/23/2019 10:03:00 PM Skipping city avera, pf.  City not found
+08/23/2019 10:03:00 PM 
+08/23/2019 10:03:01 PM Count is 280 city is malanje, ao
+08/23/2019 10:03:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=malanje,ao
+08/23/2019 10:03:02 PM Count is 281 city is nishihara, jp
+08/23/2019 10:03:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nishihara,jp
+08/23/2019 10:03:03 PM Count is 282 city is vestmannaeyjar, is
+08/23/2019 10:03:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vestmannaeyjar,is
+08/23/2019 10:03:05 PM Count is 283 city is tsihombe, mg
+08/23/2019 10:03:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tsihombe,mg
+08/23/2019 10:03:05 PM Skipping city tsihombe, mg.  City not found
+08/23/2019 10:03:05 PM 
+08/23/2019 10:03:06 PM Count is 284 city is puerto lempira, hn
+08/23/2019 10:03:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto lempira,hn
+08/23/2019 10:03:07 PM Count is 285 city is carbonia, it
+08/23/2019 10:03:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=carbonia,it
+08/23/2019 10:03:08 PM Count is 286 city is porto santo, pt
+08/23/2019 10:03:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=porto santo,pt
+08/23/2019 10:03:09 PM Count is 287 city is livingstone, zm
+08/23/2019 10:03:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=livingstone,zm
+08/23/2019 10:03:11 PM Count is 288 city is nago, jp
+08/23/2019 10:03:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nago,jp
+08/23/2019 10:03:12 PM Count is 289 city is port hardy, ca
+08/23/2019 10:03:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port hardy,ca
+08/23/2019 10:03:13 PM Count is 290 city is busia, ug
+08/23/2019 10:03:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=busia,ug
+08/23/2019 10:03:14 PM Count is 291 city is wonosobo, id
+08/23/2019 10:03:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=wonosobo,id
+08/23/2019 10:03:15 PM Count is 292 city is samusu, ws
+08/23/2019 10:03:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=samusu,ws
+08/23/2019 10:03:15 PM Skipping city samusu, ws.  City not found
+08/23/2019 10:03:15 PM 
+08/23/2019 10:03:16 PM Count is 293 city is flinders, au
+08/23/2019 10:03:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=flinders,au
+08/23/2019 10:03:18 PM Count is 294 city is hofn, is
+08/23/2019 10:03:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hofn,is
+08/23/2019 10:03:19 PM Count is 295 city is mys shmidta, ru
+08/23/2019 10:03:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mys shmidta,ru
+08/23/2019 10:03:19 PM Skipping city mys shmidta, ru.  City not found
+08/23/2019 10:03:19 PM 
+08/23/2019 10:03:20 PM Count is 296 city is cartagena, co
+08/23/2019 10:03:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cartagena,co
+08/23/2019 10:03:21 PM Count is 297 city is hualmay, pe
+08/23/2019 10:03:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hualmay,pe
+08/23/2019 10:03:22 PM Count is 298 city is muros, es
+08/23/2019 10:03:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=muros,es
+08/23/2019 10:03:24 PM Count is 299 city is nome, us
+08/23/2019 10:03:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nome,us
+08/23/2019 10:03:25 PM Count is 300 city is palencia, es
+08/23/2019 10:03:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=palencia,es
+08/23/2019 10:03:26 PM Count is 301 city is whitefish, us
+08/23/2019 10:03:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=whitefish,us
+08/23/2019 10:03:27 PM Count is 302 city is kaputa, zm
+08/23/2019 10:03:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kaputa,zm
+08/23/2019 10:03:29 PM Count is 303 city is glenwood springs, us
+08/23/2019 10:03:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=glenwood springs,us
+08/23/2019 10:03:30 PM Count is 304 city is aasiaat, gl
+08/23/2019 10:03:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aasiaat,gl
+08/23/2019 10:03:31 PM Count is 305 city is mantua, cu
+08/23/2019 10:03:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mantua,cu
+08/23/2019 10:03:32 PM Count is 306 city is naze, jp
+08/23/2019 10:03:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=naze,jp
+08/23/2019 10:03:33 PM Count is 307 city is naryan-mar, ru
+08/23/2019 10:03:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=naryan-mar,ru
+08/23/2019 10:03:35 PM Count is 308 city is kaitangata, nz
+08/23/2019 10:03:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kaitangata,nz
+08/23/2019 10:03:36 PM Count is 309 city is huallanca, pe
+08/23/2019 10:03:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=huallanca,pe
+08/23/2019 10:03:37 PM Count is 310 city is chojnice, pl
+08/23/2019 10:03:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chojnice,pl
+08/23/2019 10:03:38 PM Count is 311 city is acapulco, mx
+08/23/2019 10:03:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=acapulco,mx
+08/23/2019 10:03:40 PM Count is 312 city is yumen, cn
+08/23/2019 10:03:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yumen,cn
+08/23/2019 10:03:41 PM Count is 313 city is bereznik, ru
+08/23/2019 10:03:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bereznik,ru
+08/23/2019 10:03:42 PM Count is 314 city is sentyabrskiy, ru
+08/23/2019 10:03:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sentyabrskiy,ru
+08/23/2019 10:03:42 PM Skipping city sentyabrskiy, ru.  City not found
+08/23/2019 10:03:42 PM 
+08/23/2019 10:03:43 PM Count is 315 city is baijiantan, cn
+08/23/2019 10:03:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=baijiantan,cn
+08/23/2019 10:03:45 PM Count is 316 city is krasnoyarka, ru
+08/23/2019 10:03:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=krasnoyarka,ru
+08/23/2019 10:03:46 PM Count is 317 city is sarkand, kz
+08/23/2019 10:03:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sarkand,kz
+08/23/2019 10:03:47 PM Count is 318 city is kalmunai, lk
+08/23/2019 10:03:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kalmunai,lk
+08/23/2019 10:03:48 PM Count is 319 city is kondinskoye, ru
+08/23/2019 10:03:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kondinskoye,ru
+08/23/2019 10:03:49 PM Count is 320 city is firminy, fr
+08/23/2019 10:03:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=firminy,fr
+08/23/2019 10:03:51 PM Count is 321 city is szczecinek, pl
+08/23/2019 10:03:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=szczecinek,pl
+08/23/2019 10:03:52 PM Count is 322 city is puerto madryn, ar
+08/23/2019 10:03:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto madryn,ar
+08/23/2019 10:03:53 PM Count is 323 city is statesboro, us
+08/23/2019 10:03:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=statesboro,us
+08/23/2019 10:03:54 PM Count is 324 city is antalaha, mg
+08/23/2019 10:03:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=antalaha,mg
+08/23/2019 10:03:55 PM Count is 325 city is beihai, cn
+08/23/2019 10:03:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=beihai,cn
+08/23/2019 10:03:56 PM Count is 326 city is macas, ec
+08/23/2019 10:03:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=macas,ec
+08/23/2019 10:03:58 PM Count is 327 city is mehamn, no
+08/23/2019 10:03:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mehamn,no
+08/23/2019 10:03:59 PM Count is 328 city is christchurch, nz
+08/23/2019 10:03:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=christchurch,nz
+08/23/2019 10:04:00 PM Count is 329 city is saleaula, ws
+08/23/2019 10:04:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saleaula,ws
+08/23/2019 10:04:00 PM Skipping city saleaula, ws.  City not found
+08/23/2019 10:04:00 PM 
+08/23/2019 10:04:01 PM Count is 330 city is abalak, ne
+08/23/2019 10:04:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=abalak,ne
+08/23/2019 10:04:02 PM Count is 331 city is provins, fr
+08/23/2019 10:04:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=provins,fr
+08/23/2019 10:04:04 PM Count is 332 city is nokha, in
+08/23/2019 10:04:04 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nokha,in
+08/23/2019 10:04:05 PM Count is 333 city is pisco, pe
+08/23/2019 10:04:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pisco,pe
+08/23/2019 10:04:06 PM Count is 334 city is murgab, tm
+08/23/2019 10:04:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=murgab,tm
+08/23/2019 10:04:07 PM Count is 335 city is omsukchan, ru
+08/23/2019 10:04:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=omsukchan,ru
+08/23/2019 10:04:09 PM Count is 336 city is ostrovnoy, ru
+08/23/2019 10:04:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ostrovnoy,ru
+08/23/2019 10:04:10 PM Count is 337 city is aflu, dz
+08/23/2019 10:04:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aflu,dz
+08/23/2019 10:04:10 PM Skipping city aflu, dz.  City not found
+08/23/2019 10:04:10 PM 
+08/23/2019 10:04:11 PM Count is 338 city is pacific grove, us
+08/23/2019 10:04:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pacific grove,us
+08/23/2019 10:04:12 PM Count is 339 city is molchanovo, ru
+08/23/2019 10:04:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=molchanovo,ru
+08/23/2019 10:04:13 PM Count is 340 city is the valley, ai
+08/23/2019 10:04:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=the valley,ai
+08/23/2019 10:04:15 PM Count is 341 city is wageningen, sr
+08/23/2019 10:04:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=wageningen,sr
+08/23/2019 10:04:16 PM Count is 342 city is alta floresta, br
+08/23/2019 10:04:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=alta floresta,br
+08/23/2019 10:04:17 PM Count is 343 city is baruun-urt, mn
+08/23/2019 10:04:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=baruun-urt,mn
+08/23/2019 10:04:18 PM Count is 344 city is cortes, ph
+08/23/2019 10:04:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cortes,ph
+08/23/2019 10:04:19 PM Count is 345 city is grindavik, is
+08/23/2019 10:04:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=grindavik,is
+08/23/2019 10:04:21 PM Count is 346 city is berea, us
+08/23/2019 10:04:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=berea,us
+08/23/2019 10:04:22 PM Count is 347 city is nuuk, gl
+08/23/2019 10:04:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nuuk,gl
+08/23/2019 10:04:23 PM Count is 348 city is saint-joseph, re
+08/23/2019 10:04:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-joseph,re
+08/23/2019 10:04:24 PM Count is 349 city is quixada, br
+08/23/2019 10:04:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=quixada,br
+08/23/2019 10:04:24 PM Skipping city quixada, br.  City not found
+08/23/2019 10:04:24 PM 
+08/23/2019 10:04:25 PM Count is 350 city is cidreira, br
+08/23/2019 10:04:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cidreira,br
+08/23/2019 10:04:27 PM Count is 351 city is gamba, ga
+08/23/2019 10:04:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gamba,ga
+08/23/2019 10:04:28 PM Count is 352 city is chapais, ca
+08/23/2019 10:04:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chapais,ca
+08/23/2019 10:04:29 PM Count is 353 city is pareora, nz
+08/23/2019 10:04:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pareora,nz
+08/23/2019 10:04:30 PM Count is 354 city is shenjiamen, cn
+08/23/2019 10:04:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shenjiamen,cn
+08/23/2019 10:04:32 PM Count is 355 city is puerto leguizamo, co
+08/23/2019 10:04:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto leguizamo,co
+08/23/2019 10:04:33 PM Count is 356 city is novyy urengoy, ru
+08/23/2019 10:04:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=novyy urengoy,ru
+08/23/2019 10:04:34 PM Count is 357 city is loandjili, cg
+08/23/2019 10:04:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=loandjili,cg
+08/23/2019 10:04:35 PM Count is 358 city is puerto narino, co
+08/23/2019 10:04:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto narino,co
+08/23/2019 10:04:36 PM Count is 359 city is edd, er
+08/23/2019 10:04:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=edd,er
+08/23/2019 10:04:38 PM Count is 360 city is krasnoselkup, ru
+08/23/2019 10:04:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=krasnoselkup,ru
+08/23/2019 10:04:38 PM Skipping city krasnoselkup, ru.  City not found
+08/23/2019 10:04:38 PM 
+08/23/2019 10:04:39 PM Count is 361 city is maniitsoq, gl
+08/23/2019 10:04:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=maniitsoq,gl
+08/23/2019 10:04:40 PM Count is 362 city is puerto lumbreras, es
+08/23/2019 10:04:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=puerto lumbreras,es
+08/23/2019 10:04:41 PM Count is 363 city is algiers, dz
+08/23/2019 10:04:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=algiers,dz
+08/23/2019 10:04:42 PM Count is 364 city is fayaoue, nc
+08/23/2019 10:04:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=fayaoue,nc
+08/23/2019 10:04:44 PM Count is 365 city is dodge city, us
+08/23/2019 10:04:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=dodge city,us
+08/23/2019 10:04:45 PM Count is 366 city is kirakira, sb
+08/23/2019 10:04:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kirakira,sb
+08/23/2019 10:04:46 PM Count is 367 city is karaul, ru
+08/23/2019 10:04:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=karaul,ru
+08/23/2019 10:04:46 PM Skipping city karaul, ru.  City not found
+08/23/2019 10:04:46 PM 
+08/23/2019 10:04:47 PM Count is 368 city is lima, us
+08/23/2019 10:04:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lima,us
+08/23/2019 10:04:48 PM Count is 369 city is tamandare, br
+08/23/2019 10:04:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tamandare,br
+08/23/2019 10:04:50 PM Count is 370 city is vostochnyy, ru
+08/23/2019 10:04:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vostochnyy,ru
+08/23/2019 10:04:51 PM Count is 371 city is berlevag, no
+08/23/2019 10:04:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=berlevag,no
+08/23/2019 10:04:52 PM Count is 372 city is kautokeino, no
+08/23/2019 10:04:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kautokeino,no
+08/23/2019 10:04:53 PM Count is 373 city is sur, om
+08/23/2019 10:04:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sur,om
+08/23/2019 10:04:54 PM Count is 374 city is xichang, cn
+08/23/2019 10:04:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=xichang,cn
+08/23/2019 10:04:56 PM Count is 375 city is broken hill, au
+08/23/2019 10:04:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=broken hill,au
+08/23/2019 10:04:57 PM Count is 376 city is macapa, br
+08/23/2019 10:04:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=macapa,br
+08/23/2019 10:04:58 PM Count is 377 city is bilibino, ru
+08/23/2019 10:04:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bilibino,ru
+08/23/2019 10:04:59 PM Count is 378 city is lahij, ye
+08/23/2019 10:04:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lahij,ye
+08/23/2019 10:05:01 PM Count is 379 city is coahuayana, mx
+08/23/2019 10:05:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=coahuayana,mx
+08/23/2019 10:05:02 PM Count is 380 city is shangrao, cn
+08/23/2019 10:05:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shangrao,cn
+08/23/2019 10:05:03 PM Count is 381 city is warqla, dz
+08/23/2019 10:05:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=warqla,dz
+08/23/2019 10:05:03 PM Skipping city warqla, dz.  City not found
+08/23/2019 10:05:03 PM 
+08/23/2019 10:05:04 PM Count is 382 city is artyk, ru
+08/23/2019 10:05:04 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=artyk,ru
+08/23/2019 10:05:04 PM Skipping city artyk, ru.  City not found
+08/23/2019 10:05:04 PM 
+08/23/2019 10:05:05 PM Count is 383 city is shirokiy, ru
+08/23/2019 10:05:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shirokiy,ru
+08/23/2019 10:05:06 PM Count is 384 city is nohar, in
+08/23/2019 10:05:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nohar,in
+08/23/2019 10:05:08 PM Count is 385 city is balkanabat, tm
+08/23/2019 10:05:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=balkanabat,tm
+08/23/2019 10:05:09 PM Count is 386 city is zhuhai, cn
+08/23/2019 10:05:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zhuhai,cn
+08/23/2019 10:05:10 PM Count is 387 city is siocon, ph
+08/23/2019 10:05:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=siocon,ph
+08/23/2019 10:05:11 PM Count is 388 city is isla vista, us
+08/23/2019 10:05:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=isla vista,us
+08/23/2019 10:05:12 PM Count is 389 city is swan hill, au
+08/23/2019 10:05:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=swan hill,au
+08/23/2019 10:05:14 PM Count is 390 city is kommunisticheskiy, ru
+08/23/2019 10:05:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kommunisticheskiy,ru
+08/23/2019 10:05:15 PM Count is 391 city is utinga, br
+08/23/2019 10:05:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=utinga,br
+08/23/2019 10:05:16 PM Count is 392 city is umm durman, sd
+08/23/2019 10:05:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=umm durman,sd
+08/23/2019 10:05:16 PM Skipping city umm durman, sd.  City not found
+08/23/2019 10:05:16 PM 
+08/23/2019 10:05:17 PM Count is 393 city is freeport, us
+08/23/2019 10:05:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=freeport,us
+08/23/2019 10:05:18 PM Count is 394 city is lala, in
+08/23/2019 10:05:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lala,in
+08/23/2019 10:05:20 PM Count is 395 city is toliary, mg
+08/23/2019 10:05:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=toliary,mg
+08/23/2019 10:05:20 PM Skipping city toliary, mg.  City not found
+08/23/2019 10:05:20 PM 
+08/23/2019 10:05:21 PM Count is 396 city is koygorodok, ru
+08/23/2019 10:05:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=koygorodok,ru
+08/23/2019 10:05:22 PM Count is 397 city is lolua, tv
+08/23/2019 10:05:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lolua,tv
+08/23/2019 10:05:22 PM Skipping city lolua, tv.  City not found
+08/23/2019 10:05:22 PM 
+08/23/2019 10:05:23 PM Count is 398 city is coquimbo, cl
+08/23/2019 10:05:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=coquimbo,cl
+08/23/2019 10:05:24 PM Count is 399 city is yekaterinovka, ru
+08/23/2019 10:05:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yekaterinovka,ru
+08/23/2019 10:05:25 PM Count is 400 city is pula, hr
+08/23/2019 10:05:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pula,hr
+08/23/2019 10:05:27 PM Count is 401 city is alice springs, au
+08/23/2019 10:05:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=alice springs,au
+08/23/2019 10:05:28 PM Count is 402 city is nouadhibou, mr
+08/23/2019 10:05:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nouadhibou,mr
+08/23/2019 10:05:29 PM Count is 403 city is carutapera, br
+08/23/2019 10:05:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=carutapera,br
+08/23/2019 10:05:30 PM Count is 404 city is luoyang, cn
+08/23/2019 10:05:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=luoyang,cn
+08/23/2019 10:05:32 PM Count is 405 city is barstow, us
+08/23/2019 10:05:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=barstow,us
+08/23/2019 10:05:33 PM Count is 406 city is anadyr, ru
+08/23/2019 10:05:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=anadyr,ru
+08/23/2019 10:05:34 PM Count is 407 city is jalu, ly
+08/23/2019 10:05:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=jalu,ly
+08/23/2019 10:05:35 PM Count is 408 city is biltine, td
+08/23/2019 10:05:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=biltine,td
+08/23/2019 10:05:36 PM Count is 409 city is muriwai beach, nz
+08/23/2019 10:05:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=muriwai beach,nz
+08/23/2019 10:05:38 PM Count is 410 city is constitucion, mx
+08/23/2019 10:05:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=constitucion,mx
+08/23/2019 10:05:39 PM Count is 411 city is vardo, no
+08/23/2019 10:05:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vardo,no
+08/23/2019 10:05:40 PM Count is 412 city is shihezi, cn
+08/23/2019 10:05:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shihezi,cn
+08/23/2019 10:05:41 PM Count is 413 city is richards bay, za
+08/23/2019 10:05:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=richards bay,za
+08/23/2019 10:05:43 PM Count is 414 city is grand gaube, mu
+08/23/2019 10:05:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=grand gaube,mu
+08/23/2019 10:05:44 PM Count is 415 city is navirai, br
+08/23/2019 10:05:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=navirai,br
+08/23/2019 10:05:45 PM Count is 416 city is lengshuitan, cn
+08/23/2019 10:05:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lengshuitan,cn
+08/23/2019 10:05:46 PM Count is 417 city is hare bay, ca
+08/23/2019 10:05:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hare bay,ca
+08/23/2019 10:05:47 PM Count is 418 city is ladario, br
+08/23/2019 10:05:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ladario,br
+08/23/2019 10:05:49 PM Count is 419 city is ngorongoro, tz
+08/23/2019 10:05:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ngorongoro,tz
+08/23/2019 10:05:50 PM Count is 420 city is itapetininga, br
+08/23/2019 10:05:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=itapetininga,br
+08/23/2019 10:05:51 PM Count is 421 city is goundi, td
+08/23/2019 10:05:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=goundi,td
+08/23/2019 10:05:52 PM Count is 422 city is san patricio, mx
+08/23/2019 10:05:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san patricio,mx
+08/23/2019 10:05:54 PM Count is 423 city is rawah, iq
+08/23/2019 10:05:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rawah,iq
+08/23/2019 10:05:54 PM Skipping city rawah, iq.  City not found
+08/23/2019 10:05:54 PM 
+08/23/2019 10:05:55 PM Count is 424 city is mount gambier, au
+08/23/2019 10:05:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mount gambier,au
+08/23/2019 10:05:56 PM Count is 425 city is aksu, cn
+08/23/2019 10:05:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aksu,cn
+08/23/2019 10:05:57 PM Count is 426 city is wagar, sd
+08/23/2019 10:05:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=wagar,sd
+08/23/2019 10:05:58 PM Count is 427 city is east wenatchee bench, us
+08/23/2019 10:05:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=east wenatchee bench,us
+08/23/2019 10:06:00 PM Count is 428 city is el jicaro, ni
+08/23/2019 10:06:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=el jicaro,ni
+08/23/2019 10:06:01 PM Count is 429 city is mananjary, mg
+08/23/2019 10:06:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mananjary,mg
+08/23/2019 10:06:02 PM Count is 430 city is kamenka, ru
+08/23/2019 10:06:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kamenka,ru
+08/23/2019 10:06:03 PM Count is 431 city is kieta, pg
+08/23/2019 10:06:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kieta,pg
+08/23/2019 10:06:05 PM Count is 432 city is am timan, td
+08/23/2019 10:06:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=am timan,td
+08/23/2019 10:06:06 PM Count is 433 city is bengkulu, id
+08/23/2019 10:06:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bengkulu,id
+08/23/2019 10:06:06 PM Skipping city bengkulu, id.  City not found
+08/23/2019 10:06:06 PM 
+08/23/2019 10:06:07 PM Count is 434 city is montepuez, mz
+08/23/2019 10:06:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=montepuez,mz
+08/23/2019 10:06:08 PM Count is 435 city is labuhan, id
+08/23/2019 10:06:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=labuhan,id
+08/23/2019 10:06:09 PM Count is 436 city is sungaipenuh, id
+08/23/2019 10:06:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sungaipenuh,id
+08/23/2019 10:06:11 PM Count is 437 city is juba, sd
+08/23/2019 10:06:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=juba,sd
+08/23/2019 10:06:11 PM Skipping city juba, sd.  City not found
+08/23/2019 10:06:11 PM 
+08/23/2019 10:06:12 PM Count is 438 city is sisak, hr
+08/23/2019 10:06:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sisak,hr
+08/23/2019 10:06:13 PM Count is 439 city is basco, ph
+08/23/2019 10:06:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=basco,ph
+08/23/2019 10:06:14 PM Count is 440 city is penzance, gb
+08/23/2019 10:06:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=penzance,gb
+08/23/2019 10:06:15 PM Count is 441 city is bosaso, so
+08/23/2019 10:06:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bosaso,so
+08/23/2019 10:06:16 PM Count is 442 city is semirom, ir
+08/23/2019 10:06:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=semirom,ir
+08/23/2019 10:06:18 PM Count is 443 city is esperance, au
+08/23/2019 10:06:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=esperance,au
+08/23/2019 10:06:19 PM Count is 444 city is hambantota, lk
+08/23/2019 10:06:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hambantota,lk
+08/23/2019 10:06:20 PM Count is 445 city is hervey bay, au
+08/23/2019 10:06:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hervey bay,au
+08/23/2019 10:06:21 PM Count is 446 city is porto novo, cv
+08/23/2019 10:06:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=porto novo,cv
+08/23/2019 10:06:23 PM Count is 447 city is billings, us
+08/23/2019 10:06:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=billings,us
+08/23/2019 10:06:24 PM Count is 448 city is russell, nz
+08/23/2019 10:06:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=russell,nz
+08/23/2019 10:06:25 PM Count is 449 city is alyangula, au
+08/23/2019 10:06:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=alyangula,au
+08/23/2019 10:06:26 PM Count is 450 city is ucluelet, ca
+08/23/2019 10:06:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ucluelet,ca
+08/23/2019 10:06:27 PM Count is 451 city is narrabri, au
+08/23/2019 10:06:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=narrabri,au
+08/23/2019 10:06:28 PM Count is 452 city is praia da vitoria, pt
+08/23/2019 10:06:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=praia da vitoria,pt
+08/23/2019 10:06:30 PM Count is 453 city is ta khmau, kh
+08/23/2019 10:06:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ta khmau,kh
+08/23/2019 10:06:31 PM Count is 454 city is vanersborg, se
+08/23/2019 10:06:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vanersborg,se
+08/23/2019 10:06:32 PM Count is 455 city is kadykchan, ru
+08/23/2019 10:06:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kadykchan,ru
+08/23/2019 10:06:32 PM Skipping city kadykchan, ru.  City not found
+08/23/2019 10:06:32 PM 
+08/23/2019 10:06:33 PM Count is 456 city is sept-iles, ca
+08/23/2019 10:06:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sept-iles,ca
+08/23/2019 10:06:34 PM Count is 457 city is havelock, us
+08/23/2019 10:06:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=havelock,us
+08/23/2019 10:06:36 PM Count is 458 city is sonamura, in
+08/23/2019 10:06:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sonamura,in
+08/23/2019 10:06:37 PM Count is 459 city is andenes, no
+08/23/2019 10:06:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=andenes,no
+08/23/2019 10:06:38 PM Count is 460 city is half moon bay, us
+08/23/2019 10:06:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=half moon bay,us
+08/23/2019 10:06:39 PM Count is 461 city is povenets, ru
+08/23/2019 10:06:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=povenets,ru
+08/23/2019 10:06:40 PM Count is 462 city is bartica, gy
+08/23/2019 10:06:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bartica,gy
+08/23/2019 10:06:42 PM Count is 463 city is brownsville, us
+08/23/2019 10:06:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=brownsville,us
+08/23/2019 10:06:43 PM Count is 464 city is sembakung, id
+08/23/2019 10:06:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sembakung,id
+08/23/2019 10:06:44 PM Count is 465 city is carbonear, ca
+08/23/2019 10:06:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=carbonear,ca
+08/23/2019 10:06:45 PM Count is 466 city is sinop, tr
+08/23/2019 10:06:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sinop,tr
+08/23/2019 10:06:46 PM Count is 467 city is katete, zm
+08/23/2019 10:06:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=katete,zm
+08/23/2019 10:06:47 PM Skipping city katete, zm.  City not found
+08/23/2019 10:06:47 PM 
+08/23/2019 10:06:48 PM Count is 468 city is kanye, bw
+08/23/2019 10:06:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kanye,bw
+08/23/2019 10:06:49 PM Count is 469 city is gospic, hr
+08/23/2019 10:06:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gospic,hr
+08/23/2019 10:06:50 PM Count is 470 city is pereslavl-zalesskiy, ru
+08/23/2019 10:06:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pereslavl-zalesskiy,ru
+08/23/2019 10:06:51 PM Count is 471 city is saint-pierre, pm
+08/23/2019 10:06:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-pierre,pm
+08/23/2019 10:06:53 PM Count is 472 city is rawson, ar
+08/23/2019 10:06:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rawson,ar
+08/23/2019 10:06:54 PM Count is 473 city is galle, lk
+08/23/2019 10:06:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=galle,lk
+08/23/2019 10:06:55 PM Count is 474 city is kampot, kh
+08/23/2019 10:06:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kampot,kh
+08/23/2019 10:06:56 PM Count is 475 city is grand-santi, gf
+08/23/2019 10:06:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=grand-santi,gf
+08/23/2019 10:06:57 PM Count is 476 city is genhe, cn
+08/23/2019 10:06:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=genhe,cn
+08/23/2019 10:06:59 PM Count is 477 city is karkaralinsk, kz
+08/23/2019 10:06:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=karkaralinsk,kz
+08/23/2019 10:06:59 PM Skipping city karkaralinsk, kz.  City not found
+08/23/2019 10:06:59 PM 
+08/23/2019 10:07:00 PM Count is 478 city is thouars, fr
+08/23/2019 10:07:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=thouars,fr
+08/23/2019 10:07:01 PM Count is 479 city is caravelas, br
+08/23/2019 10:07:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=caravelas,br
+08/23/2019 10:07:02 PM Count is 480 city is manado, id
+08/23/2019 10:07:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=manado,id
+08/23/2019 10:07:03 PM Count is 481 city is flin flon, ca
+08/23/2019 10:07:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=flin flon,ca
+08/23/2019 10:07:05 PM Count is 482 city is huangmei, cn
+08/23/2019 10:07:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=huangmei,cn
+08/23/2019 10:07:06 PM Count is 483 city is srbac, ba
+08/23/2019 10:07:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=srbac,ba
+08/23/2019 10:07:07 PM Count is 484 city is ninh binh, vn
+08/23/2019 10:07:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ninh binh,vn
+08/23/2019 10:07:08 PM Count is 485 city is kudahuvadhoo, mv
+08/23/2019 10:07:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kudahuvadhoo,mv
+08/23/2019 10:07:09 PM Count is 486 city is eyl, so
+08/23/2019 10:07:09 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=eyl,so
+08/23/2019 10:07:11 PM Count is 487 city is adrar, dz
+08/23/2019 10:07:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=adrar,dz
+08/23/2019 10:07:12 PM Count is 488 city is nizhneyansk, ru
+08/23/2019 10:07:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nizhneyansk,ru
+08/23/2019 10:07:12 PM Skipping city nizhneyansk, ru.  City not found
+08/23/2019 10:07:12 PM 
+08/23/2019 10:07:13 PM Count is 489 city is vangaindrano, mg
+08/23/2019 10:07:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vangaindrano,mg
+08/23/2019 10:07:14 PM Count is 490 city is pangai, to
+08/23/2019 10:07:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pangai,to
+08/23/2019 10:07:15 PM Count is 491 city is yuzhno-kurilsk, ru
+08/23/2019 10:07:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=yuzhno-kurilsk,ru
+08/23/2019 10:07:17 PM Count is 492 city is abu zabad, sd
+08/23/2019 10:07:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=abu zabad,sd
+08/23/2019 10:07:18 PM Count is 493 city is honningsvag, no
+08/23/2019 10:07:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=honningsvag,no
+08/23/2019 10:07:19 PM Count is 494 city is olinda, br
+08/23/2019 10:07:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=olinda,br
+08/23/2019 10:07:20 PM Count is 495 city is ulladulla, au
+08/23/2019 10:07:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ulladulla,au
+08/23/2019 10:07:21 PM Count is 496 city is umm ruwabah, sd
+08/23/2019 10:07:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=umm ruwabah,sd
+08/23/2019 10:07:22 PM Skipping city umm ruwabah, sd.  City not found
+08/23/2019 10:07:22 PM 
+08/23/2019 10:07:23 PM Count is 497 city is timizart, dz
+08/23/2019 10:07:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=timizart,dz
+08/23/2019 10:07:24 PM Count is 498 city is karabash, ru
+08/23/2019 10:07:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=karabash,ru
+08/23/2019 10:07:25 PM Count is 499 city is volzhskiy, ru
+08/23/2019 10:07:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=volzhskiy,ru
+08/23/2019 10:07:26 PM Count is 500 city is sanchor, in
+08/23/2019 10:07:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sanchor,in
+08/23/2019 10:07:27 PM Count is 501 city is suntar, ru
+08/23/2019 10:07:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=suntar,ru
+08/23/2019 10:07:29 PM Count is 502 city is tyrma, ru
+08/23/2019 10:07:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tyrma,ru
+08/23/2019 10:07:30 PM Count is 503 city is semporna, my
+08/23/2019 10:07:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=semporna,my
+08/23/2019 10:07:31 PM Count is 504 city is blyznyuky, ua
+08/23/2019 10:07:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=blyznyuky,ua
+08/23/2019 10:07:32 PM Count is 505 city is aykhal, ru
+08/23/2019 10:07:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aykhal,ru
+08/23/2019 10:07:34 PM Count is 506 city is el retorno, co
+08/23/2019 10:07:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=el retorno,co
+08/23/2019 10:07:35 PM Count is 507 city is sidi qasim, ma
+08/23/2019 10:07:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sidi qasim,ma
+08/23/2019 10:07:35 PM Skipping city sidi qasim, ma.  City not found
+08/23/2019 10:07:35 PM 
+08/23/2019 10:07:36 PM Count is 508 city is tuatapere, nz
+08/23/2019 10:07:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tuatapere,nz
+08/23/2019 10:07:37 PM Count is 509 city is cozumel, mx
+08/23/2019 10:07:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cozumel,mx
+08/23/2019 10:07:37 PM Skipping city cozumel, mx.  City not found
+08/23/2019 10:07:37 PM 
+08/23/2019 10:07:38 PM Count is 510 city is vizinga, ru
+08/23/2019 10:07:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vizinga,ru
+08/23/2019 10:07:39 PM Count is 511 city is qaqortoq, gl
+08/23/2019 10:07:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=qaqortoq,gl
+08/23/2019 10:07:41 PM Count is 512 city is apiai, br
+08/23/2019 10:07:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=apiai,br
+08/23/2019 10:07:42 PM Count is 513 city is traverse city, us
+08/23/2019 10:07:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=traverse city,us
+08/23/2019 10:07:43 PM Count is 514 city is ierapetra, gr
+08/23/2019 10:07:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ierapetra,gr
+08/23/2019 10:07:44 PM Count is 515 city is montijo, es
+08/23/2019 10:07:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=montijo,es
+08/23/2019 10:07:45 PM Count is 516 city is shingu, jp
+08/23/2019 10:07:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shingu,jp
+08/23/2019 10:07:47 PM Count is 517 city is mentor, us
+08/23/2019 10:07:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mentor,us
+08/23/2019 10:07:48 PM Count is 518 city is kerema, pg
+08/23/2019 10:07:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kerema,pg
+08/23/2019 10:07:49 PM Count is 519 city is opobo, ng
+08/23/2019 10:07:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=opobo,ng
+08/23/2019 10:07:49 PM Skipping city opobo, ng.  City not found
+08/23/2019 10:07:49 PM 
+08/23/2019 10:07:50 PM Count is 520 city is llanes, es
+08/23/2019 10:07:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=llanes,es
+08/23/2019 10:07:51 PM Count is 521 city is sorong, id
+08/23/2019 10:07:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sorong,id
+08/23/2019 10:07:53 PM Count is 522 city is znamenskoye, ru
+08/23/2019 10:07:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=znamenskoye,ru
+08/23/2019 10:07:54 PM Count is 523 city is kinwat, in
+08/23/2019 10:07:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kinwat,in
+08/23/2019 10:07:55 PM Count is 524 city is aklavik, ca
+08/23/2019 10:07:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aklavik,ca
+08/23/2019 10:07:56 PM Count is 525 city is santo antonio do ica, br
+08/23/2019 10:07:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=santo antonio do ica,br
+08/23/2019 10:07:58 PM Count is 526 city is san rafael, bo
+08/23/2019 10:07:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=san rafael,bo
+08/23/2019 10:07:59 PM Count is 527 city is los llanos de aridane, es
+08/23/2019 10:07:59 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=los llanos de aridane,es
+08/23/2019 10:08:00 PM Count is 528 city is menongue, ao
+08/23/2019 10:08:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=menongue,ao
+08/23/2019 10:08:01 PM Count is 529 city is porosozero, ru
+08/23/2019 10:08:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=porosozero,ru
+08/23/2019 10:08:02 PM Count is 530 city is ponnani, in
+08/23/2019 10:08:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ponnani,in
+08/23/2019 10:08:03 PM Count is 531 city is fort nelson, ca
+08/23/2019 10:08:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=fort nelson,ca
+08/23/2019 10:08:05 PM Count is 532 city is la ronge, ca
+08/23/2019 10:08:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=la ronge,ca
+08/23/2019 10:08:06 PM Count is 533 city is saint-augustin, ca
+08/23/2019 10:08:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=saint-augustin,ca
+08/23/2019 10:08:07 PM Count is 534 city is fairbanks, us
+08/23/2019 10:08:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=fairbanks,us
+08/23/2019 10:08:08 PM Count is 535 city is belis, ro
+08/23/2019 10:08:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=belis,ro
+08/23/2019 10:08:10 PM Count is 536 city is caluquembe, ao
+08/23/2019 10:08:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=caluquembe,ao
+08/23/2019 10:08:11 PM Count is 537 city is cherdyn, ru
+08/23/2019 10:08:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cherdyn,ru
+08/23/2019 10:08:12 PM Count is 538 city is bandarbeyla, so
+08/23/2019 10:08:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bandarbeyla,so
+08/23/2019 10:08:13 PM Count is 539 city is abadan, ir
+08/23/2019 10:08:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=abadan,ir
+08/23/2019 10:08:14 PM Count is 540 city is phangnga, th
+08/23/2019 10:08:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=phangnga,th
+08/23/2019 10:08:16 PM Count is 541 city is ust-barguzin, ru
+08/23/2019 10:08:16 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ust-barguzin,ru
+08/23/2019 10:08:17 PM Count is 542 city is oistins, bb
+08/23/2019 10:08:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=oistins,bb
+08/23/2019 10:08:18 PM Count is 543 city is kawana waters, au
+08/23/2019 10:08:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kawana waters,au
+08/23/2019 10:08:18 PM Skipping city kawana waters, au.  City not found
+08/23/2019 10:08:18 PM 
+08/23/2019 10:08:19 PM Count is 544 city is cherskiy, ru
+08/23/2019 10:08:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cherskiy,ru
+08/23/2019 10:08:20 PM Count is 545 city is solnechnyy, ru
+08/23/2019 10:08:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=solnechnyy,ru
+08/23/2019 10:08:22 PM Count is 546 city is iralaya, hn
+08/23/2019 10:08:22 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=iralaya,hn
+08/23/2019 10:08:23 PM Count is 547 city is avallon, fr
+08/23/2019 10:08:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=avallon,fr
+08/23/2019 10:08:24 PM Count is 548 city is umzimvubu, za
+08/23/2019 10:08:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=umzimvubu,za
+08/23/2019 10:08:24 PM Skipping city umzimvubu, za.  City not found
+08/23/2019 10:08:24 PM 
+08/23/2019 10:08:25 PM Count is 549 city is poum, nc
+08/23/2019 10:08:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=poum,nc
+08/23/2019 10:08:26 PM Count is 550 city is gongzhuling, cn
+08/23/2019 10:08:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gongzhuling,cn
+08/23/2019 10:08:28 PM Count is 551 city is porto velho, br
+08/23/2019 10:08:28 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=porto velho,br
+08/23/2019 10:08:29 PM Count is 552 city is arlit, ne
+08/23/2019 10:08:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=arlit,ne
+08/23/2019 10:08:30 PM Count is 553 city is leh, in
+08/23/2019 10:08:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=leh,in
+08/23/2019 10:08:31 PM Count is 554 city is port keats, au
+08/23/2019 10:08:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port keats,au
+08/23/2019 10:08:32 PM Count is 555 city is meulaboh, id
+08/23/2019 10:08:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=meulaboh,id
+08/23/2019 10:08:34 PM Count is 556 city is lompoc, us
+08/23/2019 10:08:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lompoc,us
+08/23/2019 10:08:35 PM Count is 557 city is buy, ru
+08/23/2019 10:08:35 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=buy,ru
+08/23/2019 10:08:36 PM Count is 558 city is juneau, us
+08/23/2019 10:08:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=juneau,us
+08/23/2019 10:08:37 PM Count is 559 city is vendome, fr
+08/23/2019 10:08:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=vendome,fr
+08/23/2019 10:08:38 PM Count is 560 city is comodoro rivadavia, ar
+08/23/2019 10:08:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=comodoro rivadavia,ar
+08/23/2019 10:08:40 PM Count is 561 city is lata, sb
+08/23/2019 10:08:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lata,sb
+08/23/2019 10:08:40 PM Skipping city lata, sb.  City not found
+08/23/2019 10:08:40 PM 
+08/23/2019 10:08:41 PM Count is 562 city is bumba, cd
+08/23/2019 10:08:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bumba,cd
+08/23/2019 10:08:42 PM Count is 563 city is rindge, us
+08/23/2019 10:08:42 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=rindge,us
+08/23/2019 10:08:43 PM Count is 564 city is carmen, mx
+08/23/2019 10:08:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=carmen,mx
+08/23/2019 10:08:43 PM Skipping city carmen, mx.  City not found
+08/23/2019 10:08:43 PM 
+08/23/2019 10:08:44 PM Count is 565 city is emba, kz
+08/23/2019 10:08:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=emba,kz
+08/23/2019 10:08:44 PM Skipping city emba, kz.  City not found
+08/23/2019 10:08:44 PM 
+08/23/2019 10:08:45 PM Count is 566 city is clyde, nz
+08/23/2019 10:08:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=clyde,nz
+08/23/2019 10:08:47 PM Count is 567 city is gorontalo, id
+08/23/2019 10:08:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=gorontalo,id
+08/23/2019 10:08:48 PM Count is 568 city is borama, so
+08/23/2019 10:08:48 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=borama,so
+08/23/2019 10:08:48 PM Skipping city borama, so.  City not found
+08/23/2019 10:08:48 PM 
+08/23/2019 10:08:49 PM Count is 569 city is helensburgh, gb
+08/23/2019 10:08:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=helensburgh,gb
+08/23/2019 10:08:50 PM Count is 570 city is shu, kz
+08/23/2019 10:08:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=shu,kz
+08/23/2019 10:08:51 PM Count is 571 city is halifax, ca
+08/23/2019 10:08:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=halifax,ca
+08/23/2019 10:08:52 PM Count is 572 city is jati, id
+08/23/2019 10:08:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=jati,id
+08/23/2019 10:08:53 PM Count is 573 city is galesong, id
+08/23/2019 10:08:53 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=galesong,id
+08/23/2019 10:08:55 PM Count is 574 city is toora-khem, ru
+08/23/2019 10:08:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=toora-khem,ru
+08/23/2019 10:08:56 PM Count is 575 city is monrovia, lr
+08/23/2019 10:08:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=monrovia,lr
+08/23/2019 10:08:57 PM Count is 576 city is goianapolis, br
+08/23/2019 10:08:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=goianapolis,br
+08/23/2019 10:08:58 PM Count is 577 city is seoul, kr
+08/23/2019 10:08:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=seoul,kr
+08/23/2019 10:09:00 PM Count is 578 city is uray, ru
+08/23/2019 10:09:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=uray,ru
+08/23/2019 10:09:01 PM Count is 579 city is barentu, er
+08/23/2019 10:09:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=barentu,er
+08/23/2019 10:09:02 PM Count is 580 city is verkhoyansk, ru
+08/23/2019 10:09:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=verkhoyansk,ru
+08/23/2019 10:09:03 PM Count is 581 city is esso, ru
+08/23/2019 10:09:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=esso,ru
+08/23/2019 10:09:05 PM Count is 582 city is pekan, my
+08/23/2019 10:09:05 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=pekan,my
+08/23/2019 10:09:06 PM Count is 583 city is laguna de perlas, ni
+08/23/2019 10:09:06 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=laguna de perlas,ni
+08/23/2019 10:09:07 PM Count is 584 city is prado, br
+08/23/2019 10:09:07 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=prado,br
+08/23/2019 10:09:08 PM Count is 585 city is sao felix do xingu, br
+08/23/2019 10:09:08 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=sao felix do xingu,br
+08/23/2019 10:09:10 PM Count is 586 city is campina grande, br
+08/23/2019 10:09:10 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=campina grande,br
+08/23/2019 10:09:11 PM Count is 587 city is hokitika, nz
+08/23/2019 10:09:11 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=hokitika,nz
+08/23/2019 10:09:12 PM Count is 588 city is lowestoft, gb
+08/23/2019 10:09:12 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lowestoft,gb
+08/23/2019 10:09:13 PM Count is 589 city is tungkang, tw
+08/23/2019 10:09:13 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=tungkang,tw
+08/23/2019 10:09:13 PM Skipping city tungkang, tw.  City not found
+08/23/2019 10:09:13 PM 
+08/23/2019 10:09:14 PM Count is 590 city is bagdarin, ru
+08/23/2019 10:09:14 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bagdarin,ru
+08/23/2019 10:09:15 PM Count is 591 city is launceston, au
+08/23/2019 10:09:15 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=launceston,au
+08/23/2019 10:09:17 PM Count is 592 city is nao-me-toque, br
+08/23/2019 10:09:17 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=nao-me-toque,br
+08/23/2019 10:09:17 PM Skipping city nao-me-toque, br.  City not found
+08/23/2019 10:09:17 PM 
+08/23/2019 10:09:18 PM Count is 593 city is kloulklubed, pw
+08/23/2019 10:09:18 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kloulklubed,pw
+08/23/2019 10:09:19 PM Count is 594 city is lucapon, ph
+08/23/2019 10:09:19 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lucapon,ph
+08/23/2019 10:09:20 PM Count is 595 city is camopi, gf
+08/23/2019 10:09:20 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=camopi,gf
+08/23/2019 10:09:21 PM Count is 596 city is zauralskiy, ru
+08/23/2019 10:09:21 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zauralskiy,ru
+08/23/2019 10:09:23 PM Count is 597 city is neiafu, to
+08/23/2019 10:09:23 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=neiafu,to
+08/23/2019 10:09:24 PM Count is 598 city is poronaysk, ru
+08/23/2019 10:09:24 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=poronaysk,ru
+08/23/2019 10:09:25 PM Count is 599 city is viligili, mv
+08/23/2019 10:09:25 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=viligili,mv
+08/23/2019 10:09:25 PM Skipping city viligili, mv.  City not found
+08/23/2019 10:09:25 PM 
+08/23/2019 10:09:26 PM Count is 600 city is ayan, ru
+08/23/2019 10:09:26 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ayan,ru
+08/23/2019 10:09:26 PM Skipping city ayan, ru.  City not found
+08/23/2019 10:09:26 PM 
+08/23/2019 10:09:27 PM Count is 601 city is miraflores, co
+08/23/2019 10:09:27 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=miraflores,co
+08/23/2019 10:09:29 PM Count is 602 city is mogadishu, so
+08/23/2019 10:09:29 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=mogadishu,so
+08/23/2019 10:09:30 PM Count is 603 city is brewster, us
+08/23/2019 10:09:30 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=brewster,us
+08/23/2019 10:09:31 PM Count is 604 city is lieksa, fi
+08/23/2019 10:09:31 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lieksa,fi
+08/23/2019 10:09:32 PM Count is 605 city is port-gentil, ga
+08/23/2019 10:09:32 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port-gentil,ga
+08/23/2019 10:09:33 PM Count is 606 city is barraute, ca
+08/23/2019 10:09:33 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=barraute,ca
+08/23/2019 10:09:34 PM Count is 607 city is zaragoza, es
+08/23/2019 10:09:34 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=zaragoza,es
+08/23/2019 10:09:36 PM Count is 608 city is stoyba, ru
+08/23/2019 10:09:36 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=stoyba,ru
+08/23/2019 10:09:36 PM Skipping city stoyba, ru.  City not found
+08/23/2019 10:09:36 PM 
+08/23/2019 10:09:37 PM Count is 609 city is marzuq, ly
+08/23/2019 10:09:37 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=marzuq,ly
+08/23/2019 10:09:37 PM Skipping city marzuq, ly.  City not found
+08/23/2019 10:09:37 PM 
+08/23/2019 10:09:38 PM Count is 610 city is manta, ec
+08/23/2019 10:09:38 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=manta,ec
+08/23/2019 10:09:39 PM Count is 611 city is margate, za
+08/23/2019 10:09:39 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=margate,za
+08/23/2019 10:09:40 PM Count is 612 city is burnie, au
+08/23/2019 10:09:40 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=burnie,au
+08/23/2019 10:09:41 PM Count is 613 city is cockburn town, tc
+08/23/2019 10:09:41 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cockburn town,tc
+08/23/2019 10:09:43 PM Count is 614 city is bud, no
+08/23/2019 10:09:43 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=bud,no
+08/23/2019 10:09:44 PM Count is 615 city is ust-tsilma, ru
+08/23/2019 10:09:44 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ust-tsilma,ru
+08/23/2019 10:09:45 PM Count is 616 city is havre-saint-pierre, ca
+08/23/2019 10:09:45 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=havre-saint-pierre,ca
+08/23/2019 10:09:46 PM Count is 617 city is ranot, th
+08/23/2019 10:09:46 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=ranot,th
+08/23/2019 10:09:47 PM Count is 618 city is port hueneme, us
+08/23/2019 10:09:47 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=port hueneme,us
+08/23/2019 10:09:49 PM Count is 619 city is taft, ir
+08/23/2019 10:09:49 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=taft,ir
+08/23/2019 10:09:50 PM Count is 620 city is palmer, us
+08/23/2019 10:09:50 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=palmer,us
+08/23/2019 10:09:51 PM Count is 621 city is kourou, gf
+08/23/2019 10:09:51 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=kourou,gf
+08/23/2019 10:09:52 PM Count is 622 city is verkhniy uslon, ru
+08/23/2019 10:09:52 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=verkhniy uslon,ru
+08/23/2019 10:09:54 PM Count is 623 city is evensk, ru
+08/23/2019 10:09:54 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=evensk,ru
+08/23/2019 10:09:55 PM Count is 624 city is inirida, co
+08/23/2019 10:09:55 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=inirida,co
+08/23/2019 10:09:56 PM Count is 625 city is chapada dos guimaraes, br
+08/23/2019 10:09:56 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=chapada dos guimaraes,br
+08/23/2019 10:09:57 PM Count is 626 city is lixourion, gr
+08/23/2019 10:09:57 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=lixourion,gr
+08/23/2019 10:09:58 PM Count is 627 city is aleksandrov gay, ru
+08/23/2019 10:09:58 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=aleksandrov gay,ru
+08/23/2019 10:10:00 PM Count is 628 city is namatanai, pg
+08/23/2019 10:10:00 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=namatanai,pg
+08/23/2019 10:10:01 PM Count is 629 city is batagay, ru
+08/23/2019 10:10:01 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=batagay,ru
+08/23/2019 10:10:02 PM Count is 630 city is cabedelo, br
+08/23/2019 10:10:02 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=cabedelo,br
+08/23/2019 10:10:03 PM Count is 631 city is minot, us
+08/23/2019 10:10:03 PM http://api.openweathermap.org/data/2.5/weather?units=imperial&APPID=f6037b60b7920e9d74f375258d824e09&q=minot,us
+08/23/2019 10:10:04 PM ----------------------------------------
+08/23/2019 10:10:04 PM Number of Cities: 631, Total calls: 631, Number not found/errored 77
+08/23/2019 10:10:04 PM finished calling weather api at 2019-08-23 22:10:04.964481
+08/23/2019 10:10:04 PM 
+08/23/2019 10:10:05 PM 
+08/23/2019 10:10:05 PM ====== City Weather Dataframe head(10)
+08/23/2019 10:10:05 PM                 City  Cloudiness Country  Humidity    Lat     Lng  MaxTemp  \
+0            ambanja          72      MG        83 -13.68   48.45    76.57   
+1              diffa          46      NE        62  13.32   12.61    81.15   
+2       saint george           1      US       100  38.54  -90.31    75.20   
+3             kodiak           1      US        83  39.95  -94.76    73.40   
+4             barrow           1      US        82  39.51  -90.40    72.00   
+..               ...         ...     ...       ...    ...     ...      ...   
+549  aleksandrov gay          16      RU        75  50.14   48.57    69.73   
+550        namatanai         100      PG        84  -3.66  152.44    79.17   
+551          batagay          99      RU        42  67.65  134.64    71.48   
+552         cabedelo          20      BR        94  -6.97  -34.84    71.60   
+553            minot           1      US        83  48.23 -101.30    72.00   
+
+     WindSpeed  
+0        10.56  
+1         9.95  
+2        10.07  
+3        10.29  
+4         5.82  
+..         ...  
+549      15.61  
+550      15.61  
+551       7.38  
+552       9.17  
+553       9.17  
+
+[554 rows x 8 columns]
+08/23/2019 10:10:05 PM 
+08/23/2019 10:10:05 PM 
+08/23/2019 10:10:05 PM 
+08/23/2019 10:10:05 PM ==================================================
+08/23/2019 10:10:05 PM ==================================================
+08/23/2019 10:10:05 PM Program END at 2019-08-23 22:10:05.738209
+08/23/2019 10:10:05 PM ==================================================
+08/23/2019 10:10:05 PM 
+08/23/2019 10:10:05 PM 
